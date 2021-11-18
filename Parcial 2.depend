@@ -1,0 +1,280 @@
+# depslib dependency file v1.0
+1634170620 source:c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2\fecha.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+
+1634177827 c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2\fecha.h
+
+1634170618 source:c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2\hora.cpp
+	<iostream>
+	<cstdlib>
+	"Hora.h"
+
+1634170620 c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2\hora.h
+
+1584205420 source:c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2\main.cpp
+	<iostream>
+
+1634170620 source:c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2\gasto.cpp
+	<iostream>
+	<cstdlib>
+	"Gasto.h"
+
+1634170635 c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2\gasto.h
+	"Fecha.h"
+	"Hora.h"
+
+1634170620 source:c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2\persona.cpp
+	<iostream>
+	<cstdlib>
+	"Persona.h"
+
+1634170620 c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2\persona.h
+
+1634177827 source:c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2\funciones.cpp
+	<iostream>
+	<cstdlib>
+
+1636323454 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2 zoom 7-11-2021\parcial 2\parcial 2\fecha.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+
+1636323454 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2 zoom 7-11-2021\parcial 2\parcial 2\fecha.h
+
+1636425497 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2 zoom 7-11-2021\parcial 2\parcial 2\funciones.cpp
+	<iostream>
+	<cstdlib>
+
+1636323454 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2 zoom 7-11-2021\parcial 2\parcial 2\hora.cpp
+	<iostream>
+	<cstdlib>
+	"Hora.h"
+
+1636323454 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2 zoom 7-11-2021\parcial 2\parcial 2\hora.h
+
+1636514007 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2 zoom 7-11-2021\parcial 2\parcial 2\main.cpp
+	<iostream>
+	"reunion.h"
+	"Gasto.h"
+
+1636323454 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2 zoom 7-11-2021\parcial 2\parcial 2\persona.cpp
+	<iostream>
+	<cstdlib>
+	"Persona.h"
+
+1636323454 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2 zoom 7-11-2021\parcial 2\parcial 2\persona.h
+
+1636505734 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2 zoom 7-11-2021\parcial 2\parcial 2\gasto.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"Gasto.h"
+
+1636505029 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2 zoom 7-11-2021\parcial 2\parcial 2\gasto.h
+	"Fecha.h"
+	"Hora.h"
+
+1636511104 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2 zoom 7-11-2021\parcial 2\parcial 2\reunion.h
+	"Fecha.h"
+	"Hora.h"
+	"Gasto.h"
+
+1636512542 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2 zoom 7-11-2021\parcial 2\parcial 2\reunion.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"Reunion.h"
+	"Gasto.h"
+	"Fecha.h"
+
+1636305454 source:c:\users\yo\downloads\parcial 2-20211110t225523z-001\parcial 2\fecha.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+
+1636305454 c:\users\yo\downloads\parcial 2-20211110t225523z-001\parcial 2\fecha.h
+
+1636407496 source:c:\users\yo\downloads\parcial 2-20211110t225523z-001\parcial 2\funciones.cpp
+	<iostream>
+	<cstdlib>
+
+1636782414 source:c:\users\yo\downloads\parcial 2-20211110t225523z-001\parcial 2\gasto.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"Gasto.h"
+
+1636781720 c:\users\yo\downloads\parcial 2-20211110t225523z-001\parcial 2\gasto.h
+	"Fecha.h"
+	"Hora.h"
+
+1636305454 c:\users\yo\downloads\parcial 2-20211110t225523z-001\parcial 2\hora.h
+
+1636305454 source:c:\users\yo\downloads\parcial 2-20211110t225523z-001\parcial 2\hora.cpp
+	<iostream>
+	<cstdlib>
+	"Hora.h"
+
+1636782233 source:c:\users\yo\downloads\parcial 2-20211110t225523z-001\parcial 2\main.cpp
+	<iostream>
+	"Reunion.h"
+	"Gasto.h"
+
+1636675140 c:\users\yo\downloads\parcial 2-20211110t225523z-001\parcial 2\reunion.h
+	"Fecha.h"
+	"Hora.h"
+	"Gasto.h"
+
+1636305454 source:c:\users\yo\downloads\parcial 2-20211110t225523z-001\parcial 2\persona.cpp
+	<iostream>
+	<cstdlib>
+	"Persona.h"
+
+1636305454 c:\users\yo\downloads\parcial 2-20211110t225523z-001\parcial 2\persona.h
+
+1636783055 source:c:\users\yo\downloads\parcial 2-20211110t225523z-001\parcial 2\reunion.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"Reunion.h"
+	"Gasto.h"
+	"Fecha.h"
+
+1636287454 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2-20211110t225523z-001\parcial 2\fecha.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+
+1636287454 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2-20211110t225523z-001\parcial 2\fecha.h
+
+1636389496 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2-20211110t225523z-001\parcial 2\funciones.cpp
+	<iostream>
+	<cstdlib>
+
+1637100103 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2-20211110t225523z-001\parcial 2\gasto.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"Gasto.h"
+
+1637098678 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2-20211110t225523z-001\parcial 2\gasto.h
+	"Fecha.h"
+	"Hora.h"
+
+1636287454 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2-20211110t225523z-001\parcial 2\hora.h
+
+1636287454 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2-20211110t225523z-001\parcial 2\hora.cpp
+	<iostream>
+	<cstdlib>
+	"Hora.h"
+
+1637027009 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2-20211110t225523z-001\parcial 2\main.cpp
+	<iostream>
+	"Reunion.h"
+	"Gasto.h"
+	"Viaje.h"
+
+1636858994 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2-20211110t225523z-001\parcial 2\reunion.h
+	"Fecha.h"
+	"Hora.h"
+	"Gasto.h"
+
+1636947167 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2-20211110t225523z-001\parcial 2\persona.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"Persona.h"
+
+1636945795 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2-20211110t225523z-001\parcial 2\persona.h
+
+1636850276 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2-20211110t225523z-001\parcial 2\reunion.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"Reunion.h"
+	"Gasto.h"
+	"Fecha.h"
+
+1637099649 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2-20211110t225523z-001\parcial 2\viaje.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"Gasto.h"
+	"Fecha.h"
+	"Viaje.h"
+	"Persona.h"
+
+1637027229 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\parcial 2 laboratorio\parcial 2-20211110t225523z-001\parcial 2\viaje.h
+	"Fecha.h"
+	"Gasto.h"
+
+1637165713 source:c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2.1\parcial 2\fecha.cpp
+	<iostream>
+	<cstdlib>
+	"Fecha.h"
+
+1636287454 c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2.1\parcial 2\fecha.h
+
+1636389496 source:c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2.1\parcial 2\funciones.cpp
+	<iostream>
+	<cstdlib>
+
+1636287454 source:c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2.1\parcial 2\hora.cpp
+	<iostream>
+	<cstdlib>
+	"Hora.h"
+
+1636287454 c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2.1\parcial 2\hora.h
+
+1637190610 source:c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2.1\parcial 2\main.cpp
+	<iostream>
+	"Reunion.h"
+	"Gasto.h"
+	"Viaje.h"
+
+1637167509 c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2.1\parcial 2\reunion.h
+	"Fecha.h"
+	"Hora.h"
+	"Gasto.h"
+
+1637188925 c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2.1\parcial 2\gasto.h
+	"Fecha.h"
+	"Hora.h"
+
+1637104866 c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2.1\parcial 2\viaje.h
+	"Fecha.h"
+	"Gasto.h"
+
+1637117623 source:c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2.1\parcial 2\persona.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"Persona.h"
+
+1637188925 c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2.1\parcial 2\persona.h
+
+1637190158 source:c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2.1\parcial 2\reunion.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"Reunion.h"
+	"Gasto.h"
+	"Fecha.h"
+
+1637117658 source:c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2.1\parcial 2\viaje.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"Gasto.h"
+	"Fecha.h"
+	"Viaje.h"
+	"Persona.h"
+
+1637190158 source:c:\users\yo\documents\facultad\cuatrimestre 2\laboratorio 2\parcial 2\parcial 2.1\parcial 2\gasto.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"Gasto.h"
+
