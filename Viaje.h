@@ -49,6 +49,10 @@ class Viaje{
         void saldar(int saldado);
         void cargarPersonas(int nviaje ,int cant);
         void cargarParticipantes();
+        int CantidadDeRegistros();
+        int GenerarCodigo();
+        void mostrarListado();
+        void consultaMiembrosDeViaje();
         //void saldado(int saldado);
 
 

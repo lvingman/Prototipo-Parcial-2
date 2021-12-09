@@ -42,11 +42,14 @@
 		<Unit filename="Hora.h" />
 		<Unit filename="Persona.cpp" />
 		<Unit filename="Persona.h" />
-		<Unit filename="Reunion.cpp" />
+		<Unit filename="Reunion.cpp">
+			<Option target="Debug" />
+		</Unit>
 		<Unit filename="Reunion.h" />
 		<Unit filename="Viaje.cpp" />
 		<Unit filename="Viaje.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="rlutil.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

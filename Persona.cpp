@@ -68,7 +68,8 @@ FILE *p;
     fclose(p);
 }
 
-///INTEGRANTES VIAJE
+///INTEGRANTES VIAJE------------------------------------------------------------------------------
+///-----------------------------------------------------------------------------------------------
 
 void IntegranteViaje::setNombre(const char * nombre){strcpy(_nombre, nombre);}
 void IntegranteViaje::setNroViaje(int numero){_nroViaje = numero;}
@@ -86,7 +87,7 @@ void IntegranteViaje::cargar(int numero){
 
     cout << "INGRESE EL MONTO GASTADO: ";
     cin >> _gasto;
-    cin.ignore(2);
+    cin.ignore();
     _nroViaje = numero;
 
 }

@@ -15,6 +15,7 @@ class Fecha{
         int getAnio();
 
         void cargar();
+        void mostrar();
 };
 
 

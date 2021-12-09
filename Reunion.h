@@ -12,9 +12,13 @@ class Reunion{
         int _grupo; // 1= AMIGOS / 2= FAMILIA / 3= TRABAJO / 4= PAREJA
         int  _nroReunion; // N° de reunion se genera automaticamente con un contador.
         int _cantPersonaReunion; // Cantidad de personas de la reunion
+
         ///Gasto *_gastoParticipante;
 
     public:
+        Reunion ( const char* motivo="Vacio",const char* lugar="vacio",int nroReunion=0,int cantcantPersonaReunion=0){
+        //
+        }
         void cargarParticipantes(int);
         Reunion(int cantPersonaReunion);
         void setMotivo(const char*);
@@ -35,16 +39,14 @@ class Reunion{
         void cargarReunion();
         void mostrar();
         void saldar();
-        void grabarEnDisco();
-        int generarCodigo();
-
-
+        bool grabarEnDisco();
+        bool leerDeDisco(int );
+        int CantidadDeRegistros();
+        int generarCodigoReunion();
+        void mostrarListado();
+        void consultaMiembrosDeReunion();
         //reportes
         //mostrar reunion
-
-
-
-
 };
 
 

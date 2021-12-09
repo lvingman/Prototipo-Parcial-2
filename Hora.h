@@ -11,6 +11,7 @@ class Hora{
         int getHora();
         int getMinutos();
         void cargar();
+
 };
 
 
